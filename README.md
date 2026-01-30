@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Jipa
+- 👋 Hi, I’m David
 - 👀 I’m interested in high-tech departament and electrical engeneering.
 - 🌱 I’m currently learning how to code with multiple programming languages like C++, JavaScript and my favorite one Python. But also i've learned in my faculty years the basics and the more advanced tehniques of electrical engeneering.
 - ⚡ I love to discover new things, to see how mechanisms work.
