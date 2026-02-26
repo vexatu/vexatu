@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in high-tech departament and electrical engeneering.
-- 🌱 I’m currently learning Linux commands and Python scripting.
+- 🌱 I’m currently learning Linux Operating System and Python scripting inside Linux CLI.
 - ⚡ I love to discover new things, to see how mechanisms work.
 <!---
 vexatu/vexatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
